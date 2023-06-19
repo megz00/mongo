@@ -1,0 +1,6 @@
+apiVersion: v2
+name: mongodb-service
+version: "1.0"
+maintainers:
+  - name: Eslam Shapsough
+    email: eslam@eshapsough.com
